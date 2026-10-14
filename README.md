@@ -25,3 +25,11 @@ This project aims at designing an experiment to evaluate an artifact that uses a
 UX questionnaires produce quantitative data that is slow to analyse by hand. This paper presents an artifact that uses classification models to turn AttrakDiff responses into concrete areas for improvement using the 800-words paper method. Six models are compared using two multi-label strategies on detailed and averaged data. The model was integrated into a web application that displays the predicted improvement areas along with design recommendations. This work has been completed as part of the course Design Science Research at the University of Geneva in the fall semester of 2024.
 
 📄 [Paper](./800_Words.pdf)
+
+### Applying Artificial Intelligence to User Experience : Using Machine Learning to Interpret AttrakDiff Questionnaire Results
+
+*Written in French 
+Original title: « Application de l'intelligence artificielle au domaine de l'expérience utilisateur : comment utiliser les technologies de machine learning pour interpréter des résultats de questionnaires Attrakdiff ? »** 
+This bechelor's thesis investigates whether machine learning can automate the interpretation step of quantitative results from UX evaluation questionnaires. After a review of UX evaluation questionnaires and existing ML applications in UX, a dataset of AttrakDiff evaluations was compiled from scientific articles and student projects, with each evaluation labelled with interface problems (clarity, creativity, intuitiveness, lack of information, professionalism, aesthetics). Twenty-four multi-label classification setups were compared using leave-one-out cross-validation, combining six models (Naive Bayes, decision trees, Random Forest, KNN, logistic regression, SVM), two multi-label strategies (One-vs-Rest, Classifier Chains) and two levels of input detail. The selected model, a Random Forest with Classifier Chains on detailed word-pair scores, was integrated into a Flask web application that predicts an interface's weak points from AttrakDiff results and suggests matching design solutions and UX techniques.
+
+📄 [Bachelor's Thesis (French)](./Projet_de_Bachelor.pdf)
