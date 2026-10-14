@@ -1,6 +1,13 @@
 # Research Works
 This repository brings together the academic research I conducted as part of my university coursework. It includes literature reviews, state-of-the-art analyses and solution design projects, each documented with its context and main findings.
 
+
+### From Collaborative Filtering to Hybrid Models : Building and Evaluating Recommender Systems for Video Games
+
+An end-to-end study of recommender systems on the Amazon Reviews 2023 Video Games dataset (37,500 interactions). Starting from data exploration and a popularity baseline, the project implements and compares collaborative filtering (user- and item-based KNN, SVD), content-based recommendation using text representations of item metadata (TF-IDF, Word2Vec), and three hybrid strategies (weighted sum, round-robin, pipelining). Models are evaluated on rating accuracy (RMSE, MAE) and ranking quality (Precision, Hit Rate, MAP, MRR, coverage), with a focus on the trade-off between accuracy and diversity and on performance for less active users and long-tail items. This work has been completed as part of the course Advanced Topics in Human-centered Computing at the University of Copenhagen in the spring semester of 2026. 
+
+📄 [Report](./Web_Recommender_Systems_Submission.pdf)
+
 ### Litterature Review : Machine Learning for the Analysis of Quantitative UX Questionnaire Data
 
 A review of research applying machine learning models to analyse and interpret quantitative UX questionnaire results, with the aim of turning user feedback into actionable insights for improving overall user experience. This work has been completed as part of the course Advanced Topics in Human-centered Computing at the University of Copenhagen in the spring semester of 2026. 
