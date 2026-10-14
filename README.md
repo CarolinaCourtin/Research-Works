@@ -27,7 +27,7 @@ Original title : L'application des graphes de connaissances et de l'intelligence
 
 A critical review of three 2024 research papers on combining knowledge graphs with artificial intelligence to make legal information easier to retrieve. The papers cover the construction of a judicial case knowledge graph using LLMs and graph embedding models with link prediction (TransE, ConvE, RotatE), a retrieval-augmented law article recommendation system combining GPT-4 with a case-enhanced knowledge graph, and a legal case retrieval approach based on a heterogeneous graph that integrates the hierarchy of legal statutes through metapaths. Each paper is summarised and critically assessed, before a comparison highlights their shared techniques and the progression towards increasingly integrated and complex systems.
 
-📄 [Paper (French)](./Legal-Knowledge-Graphs-Papers-Review.pdf)
+📄 [Paper (French)](./Legal_Knowledge_Graphs_Papers_Review.pdf)
 
 ### 800-words paper : Applying Machine Learning to Interpret Quantitative UX Questionnaire Results
 
