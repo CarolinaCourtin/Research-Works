@@ -13,9 +13,7 @@ This project aims at designing an experiment to evaluate an artifact that uses a
 
 📄 [Paper](./HCI_Artifact_Proposal.pdf)
 
-### 800-word paper : Applying Machine Learning to Interpret Quantitative UX Questionnaire Results
-
-*800-word paper — Design Science Research, [University], December 2024 (based on my Bachelor's thesis, July 2024)*
+### 800-words paper : Applying Machine Learning to Interpret Quantitative UX Questionnaire Results
 
 UX questionnaires produce quantitative data that is slow to analyse by hand. This paper presents an artifact that uses classification models to turn AttrakDiff responses into concrete areas for improvement using the 800-words paper method. Six models are compared using two multi-label strategies on detailed and averaged data. The model was integrated into a web application that displays the predicted improvement areas along with design recommendations. This work has been completed as part of the course Design Science Research at the University of Geneva in the fall semester of 2024.
 
