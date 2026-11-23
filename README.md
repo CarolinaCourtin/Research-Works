@@ -5,7 +5,7 @@ This repository brings together the academic research I conducted as part of my 
 
 A systematic literature review of 74 papers on how digital law regulations such as the GDPR, the EU AI Act and ISO/NIST standards could be harmonized across jurisdictions. The survey is organized around three research axes: the fragmentation of digital law and existing approaches to regulatory mapping and compliance checking, the use of ontologies and knowledge graphs in the legal domain (representation standards such as Akoma Ntoso, ELI and LegalRuleML, legal knowledge graph construction, graph embeddings, link prediction and ontology mapping) and practical applications of AI in law, from commercial LegalTech tools to LLM-based assistants, retrieval-augmented generation and legal outcome prediction. The review shows that harmonization is rarely pursued as a goal in itself and is mostly done by hand. It identifies the remaining gaps and outlines a harmonization system combining automated ontology mapping, legal knowledge graphs and LLM-based reasoning. This work has been completed as the state of the art of my Master's thesis at the University of Geneva, under the supervision of Prof. Giovanna Di Marzo Serugendo, in fall 2026.
 
-📄 [Paper](./Master_Thesis_State_of_Art___Carolina_COURTIN.pdf)
+📄 [Paper](./Master_Thesis_State_of_Art_Carolina_COURTIN.pdf)
 
 
 ### From Collaborative Filtering to Hybrid Models : Building and Evaluating Recommender Systems for Video Games
